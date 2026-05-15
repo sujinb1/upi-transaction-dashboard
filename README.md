@@ -1,10 +1,10 @@
 # upi-transaction-dashboard
 
-Project Overview
+# Project Overview
 
 This project is an interactive Power BI dashboard created to analyze UPI transaction data. The dashboard helps understand transaction trends, payment behavior, bank-wise activity, currency-based transactions, city-wise analysis, and remaining balances using different visualizations and filters.
 
-Objectives 
+# Objectives 
 
 * Analyze UPI transaction patterns
 
@@ -16,7 +16,7 @@ Objectives
 
 * Build an interactive dashboard using Power BI
 
-Key Insights
+# Key Insights
 
 * Transactions can be analyzed based on city, currency, and bank.
 
@@ -26,7 +26,7 @@ Key Insights
 
 * Monthly transaction trends can be tracked effectively.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 * Data Cleaning
 
