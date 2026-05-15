@@ -1,4 +1,4 @@
-# upi-transaction-dashboard
+# UPI-transaction-dashboard
 
 # Project Overview
 
