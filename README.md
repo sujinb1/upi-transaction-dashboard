@@ -6,12 +6,12 @@ This project is an interactive Power BI dashboard created to analyze UPI transac
 
 Objectives 
 
-Analyze UPI transaction patterns
+* Analyze UPI transaction patterns
 
-Perform city-wise and currency-wise transaction analysis
+* Perform city-wise and currency-wise transaction analysis
 
-Understand bank transaction distribution
+* Understand bank transaction distribution
 
-Track monthly transaction trends
+* Track monthly transaction trends
 
-Build an interactive dashboard using Power BI
+* Build an interactive dashboard using Power BI
